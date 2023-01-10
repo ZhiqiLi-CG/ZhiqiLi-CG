@@ -8,4 +8,4 @@ My Library for computer graphics, professinal mathematics and visualization: htt
 
 My portfolio: 
 
-My blog:
+My blog: https://zhiqili-blog.github.io
